@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is sample and updated and added some more data
+=======
+This is sample and updated and also data is missing check it once
+>>>>>>> dev
 =======
 This is sample and updated and also data is missing check it once
 >>>>>>> dev
